@@ -3,10 +3,15 @@ This repository contains advanced studies and simulations related to electrical 
 Topics include:
 
 Advanced load flow studies
+
 Power system protection
+
 Renewable energy integration
+
 Smart grid concepts
+
 Power quality analysis
+
 System reliability and stability
 
 Projects emphasized analytical modeling, simulation tools, and modern electrical infrastructure challenges.
